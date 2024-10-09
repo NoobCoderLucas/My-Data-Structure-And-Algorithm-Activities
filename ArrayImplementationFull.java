@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayImplementation {
+public class ArrayImplementationFull {
     public static void main(String[] args) {
         // Get user input for the number of elements in the array
         Scanner scan = new Scanner(System.in);
