@@ -11,13 +11,13 @@ The application allows users to input the student’s name and their grade, whic
 2.Search for a Student’s Grade:
 Users can search for a student's grade by entering their name. The application will display the student’s name, grade, and whether they passed or failed based on a grade threshold of 75.
 
-###Display All Students and Grades:
+3.Display All Students and Grades:
 The application displays all student records sorted alphabetically by name. It shows the student's name, grade, and pass/fail status based on the grade threshold.
 
-3.Delete Student:
+4.Delete Student:
 Users can delete a student's record by entering their name. The record is removed from the tree, ensuring the student no longer appears in the system.
 
-4.Exit the System:
+5.Exit the System:
 Users can choose to exit the application at any time, closing the program gracefully.
 
 Why I Made This Application:
