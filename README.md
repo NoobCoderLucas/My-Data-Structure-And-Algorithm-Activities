@@ -21,6 +21,7 @@ Users can delete a student's record by entering their name. The record is remove
 Users can choose to exit the application at any time, closing the program gracefully.
 
 Why I Made This Application:
+
 I created this application because many teachers struggle with managing large student data, especially when frequently updating or searching records. Traditional methods like spreadsheets can be time-consuming.
 This app solves that by using a Binary Search Tree (BST) to organize data efficiently, speeding up tasks like grade lookup and record deletion. It helps teachers save time on administrative tasks, allowing them to focus more on teaching.
 This app contributes to me by enhancing my understanding of binary search trees, data structures, and problem-solving skills. For the community, it helps teachers and institutions manage student records more efficiently, saving time on administrative tasks.
